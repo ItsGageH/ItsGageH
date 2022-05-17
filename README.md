@@ -1,5 +1,8 @@
 ### 👋 Hi there
+
 😄 Pronouns: He/Him or They/Them
+
+![Metrics](/github-metrics.svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ItsGageH&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
